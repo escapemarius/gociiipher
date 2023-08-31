@@ -4,7 +4,7 @@ import (
 	"crypto/ecdh"
 	"errors"
 
-	"gociiipher/crypto/ecdsa"
+	"escapemarius/gociiipher/crypto/ecdsa"
 )
 
 var (
